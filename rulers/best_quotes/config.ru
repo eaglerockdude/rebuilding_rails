@@ -1,4 +1,4 @@
-run proc {
-      [200, {'Content-Type' => 'text/html'},
-       ["dude, where's my car?"]]
-    }
+# This file is used by Rack-based servers to start the application
+require './config/application'
+
+run BestQuotes::Application.new

@@ -1,6 +1,10 @@
 # Rulers
 
-TODO: Write a gem description
+This is a rails app packaged as a GEM so it can be plugged in.
+Essentially it was an exercise to build a rails-like framwork from the ground-up
+to get a better feel for how rails itself does what it does.
+
+
 
 ## Installation
 
